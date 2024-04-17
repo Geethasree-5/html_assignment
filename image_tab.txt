@@ -1,0 +1,8 @@
+<html>
+<head>
+         <title> image tag </title>
+</head>
+<body>
+         <img scr="jack.jpeg" width="500" height="200" >
+</body>
+</html>
